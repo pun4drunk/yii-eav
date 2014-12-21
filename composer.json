@@ -1,0 +1,8 @@
+{
+    "name": "pun4drunk/yii-eav",
+    "version": "0.0.1",
+    "autoload": {
+        "classmap": ["/"]
+    }
+    
+}
